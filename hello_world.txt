@@ -1,1 +1,2 @@
 Hello world!
+hi. im testing commit messages via vs code
